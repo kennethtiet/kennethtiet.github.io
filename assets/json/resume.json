@@ -30,15 +30,20 @@
       "startDate": "June 2023",
       "endDate": "Present",
       "summary": "Building research data and audit management system for auditing and transparency in academic research settings.",
-      "highlights": ["OdditDB: Auditable and Adaptable Database System for Enhancing Robotics Data Integrity", "Southern California Robotics Symposium 2023"]
+      "highlights": [
+        "OdditDB: Auditable and Adaptable Database System for Enhancing Robotics Data Integrity",
+        "Southern California Robotics Symposium 2023"
+      ]
     },
-    {"name": "Institute of Arts, Music & Science",
+    {
+      "name": "Institute of Arts, Music & Science",
       "position": "Robotics Instructor",
       "url": "http://www.iams-usa.org/",
       "startDate": "Feburary 2024",
       "endDate": "Present",
       "summary": "Teaching robotics and programming through project led instruction"
-    }],
+    }
+  ],
   "education": [
     {
       "institution": "University of Southern California",
