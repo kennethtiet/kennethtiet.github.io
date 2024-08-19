@@ -31,8 +31,11 @@
       "endDate": "Present",
       "summary": "Building research data and audit management system for auditing and transparency in academic research settings.",
       "highlights": [
-        "OdditDB: Auditable and Adaptable Database System for Enhancing Robotics Data Integrity",
-        "Southern California Robotics Symposium 2023"
+        "Developed back-end services for an auditing and data web application to enhance transparency of academic research data, presented abstract proposal at 2023 Southern California Robotics Symposium",
+        "Reduced web app deployment time by 10% and improved reliability by 15% by optimizing CI/CD pipelines",
+        "Mitigated runtime errors by 30% by leading conversion of codebase from JavaScript to TypeScript",
+        "Improved web app’s reliability by approximately 20% through reduction of technical debt and refactoring efforts",
+        "Provided instruction for 20+ beta testers by crafting easy-to-follow documentation pages using Markdown script"
       ]
     },
     {
@@ -42,6 +45,19 @@
       "startDate": "Feb 2024",
       "endDate": "Present",
       "summary": "Teaching robotics and programming through project led instruction"
+    },
+    {
+      "name": "RoviSys",
+      "position": "Software Intern",
+      "url": "http://www.rovisys.com",
+      "startDate": "May 2022",
+      "endDate": "Aug 2022",
+      "summary": "Built software tools that automated process at RoviSys",
+      "highlights": [
+        "Saved company $300,000 by successfully identifying optimization opportunities and leveraging scripting",
+        "Reduced 7,800 hours annually from projects by designing and implementing industry software applications",
+        "Achieved 50% reduction in onboarding time and 35% increase in tool adoption by creating and maintaining detailed documentation for newly developed software tools"
+      ]
     }
   ],
   "education": [
