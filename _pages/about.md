@@ -2,24 +2,36 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle:
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>Ronald Tutor Hall (RTH) 416</p>
+    <p>3710 McClintock Ave</p>
+    <p>Los Angeles, CA 90089</p>
 
 news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Hey there! Welcome to the 'site. My name's Kenneth. I recently graduated from USC with a B.S. in Computer Science.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+Currently, I conduct [research](https://bpb-us-e2.wpmucdn.com/sites.uci.edu/dist/2/5230/files/2023/09/64_SCR_23_Kenneth_Tiet.pdf) at the [USC Haptics Robotics and Virtual Interaction Lab](https://sites.usc.edu/culbertson/) and teach robotics at the [Institute of Arts, Music, & Science](http://www.iams-usa.org/).
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+Previously, I was a software intern building industry software tools at [RoviSys](https://www.rovisys.com).
+
+## currently
+
+I'm [reading](read) Meditations by Marcus Aurelius. I'm also learning new skills by following [this](https://roadmap.sh/backend) roadmap.
+
+## previously
+
+Cyclist at [USC Cycling Club](https://usccycling.com/).
+
+Swimmer at USC Swim Club, [Pasadena City College](https://pcclancers.com/sports/mswimdive/index), [Monterey Park Manta Rays](https://www.gomotionapp.com/team/campmr/page/home), and [Mark Keppel High School](https://www.mkhs.org/).
+
+Fixing pens - [Instagram page](https://www.instagram.com/kayteepens/)
