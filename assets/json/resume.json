@@ -131,8 +131,9 @@
     {
       "name": "Sandeep Kollannur",
       "icon": "fa-solid fa-laptop",
-      "reference": "PHD Candidate at Haptics Robotics and Virtual Interaction Lab, University of Southern California.",
-      "email": "1+ (320) 207-9285",
+      "reference": "PHD Candidate at Haptics Robotics and Virtual Interaction Lab, University of Southern California",
+      "email": "sandeep.kollannur@usc.edu",
+      "phone": "1+ (320) 207-9285",
       "relationship": "Advisor"
     },
     {
@@ -162,8 +163,7 @@
         "Enabled storage of notes up to 8 GB on an online database, using PostgreSQL and Digital Ocean"
       ],
       "startDate": "Jun 2024",
-      "endDate": "July 2024",
-      "url": "https://bpb-us-e2.wpmucdn.com/sites.uci.edu/dist/2/5230/files/2023/09/64_SCR_23_Kenneth_Tiet.pdf"
+      "endDate": "July 2024"
     },
     {
       "name": "TicTacToe",
