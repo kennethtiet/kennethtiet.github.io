@@ -1,9 +1,9 @@
 ---
 layout: page
-permalink: /reaching/
+permalink: /read/
 title: reading
 nav: true
-nav_order: 7
+nav_order: 3
 ---
 
 # 2024
