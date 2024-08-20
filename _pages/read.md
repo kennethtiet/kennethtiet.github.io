@@ -1,7 +1,9 @@
 ---
 layout: page
 permalink: /teaching/
-title: Reading List
+title: read
+nav: true
+nav_order: 7
 ---
 
 # 2024
