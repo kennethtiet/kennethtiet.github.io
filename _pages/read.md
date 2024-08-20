@@ -1,5 +1,6 @@
 ---
 layout: page
+permalink: /teaching/
 title: Reading List
 ---
 
