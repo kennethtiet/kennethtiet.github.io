@@ -1,7 +1,7 @@
 ---
 layout: page
-permalink: /teaching/
-title: read
+permalink: /reaching/
+title: reading
 nav: true
 nav_order: 7
 ---
