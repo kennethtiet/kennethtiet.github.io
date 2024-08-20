@@ -26,7 +26,7 @@ Previously, I was a software intern building industry software tools at [RoviSys
 
 ## currently
 
-I'm [reading](read) Meditations by Marcus Aurelius. I'm also learning new skills by following [this](https://roadmap.sh/backend) roadmap.
+I'm reading Meditations by Marcus Aurelius. I'm also learning new skills by following [this](https://roadmap.sh/backend) roadmap.
 
 ## previously
 
