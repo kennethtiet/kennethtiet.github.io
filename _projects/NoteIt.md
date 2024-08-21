@@ -49,4 +49,5 @@ NoteIt is the perfect companion for students, professionals, or anyone who wants
 NoteIt was built with the following tech stack:
 
 - Frontend: React
-- Backend: Django, Python, PostgreSQL
+- Backend: Django, Python
+- Database: PostgreSQL
