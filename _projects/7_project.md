@@ -1,8 +1,8 @@
 ---
 layout: page
-title: project 7
-description: with background image
-img: assets/img/4.jpg
+title: Network simulator
+description: communicating servers simulator
+img: assets/img/networking/internet.jpg
 importance: 9
 category: work
 related_publications: true
