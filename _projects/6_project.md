@@ -8,6 +8,7 @@ category: work
 ---
 
 # Welcome to LinkBucket!
+
 LinkBucket is a social link storage and sharing platform. Create buckets and share them with your friends! Built with Java Servlets, Apache Tomcat, HTML, CSS, and Java.
 
 <div class="row">
@@ -41,4 +42,3 @@ LinkBucket is a social link storage and sharing platform. Create buckets and sha
 <div class="caption">
     Create, search, and view buckets with ease!
 </div>
-
