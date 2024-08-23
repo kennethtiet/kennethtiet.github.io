@@ -2,7 +2,7 @@
 layout: page
 title: projects
 permalink: /projects/
-description: More projects coming soon!
+description: Welcome to my project showcase! This is where I present a variety of my work, from professional assignments to personal experiments. Whether it's complex backend systems, interactive web applications, or intriguing research projects, you'll find a range of work demonstrating my skills and creativity.
 nav: true
 nav_order: 1
 display_categories: [work, fun]
