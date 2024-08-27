@@ -28,10 +28,10 @@ Previously, I was a software intern building industry software tools at [RoviSys
 
 I'm reading Meditations by Marcus Aurelius. I'm also learning new skills by following [this](https://roadmap.sh/backend) roadmap.
 
-## previously
+## extras
 
-Cyclist at [USC Cycling Club](https://usccycling.com/).
+cyclist at [USC Cycling Club](https://usccycling.com/).
 
-Swimmer at USC Swim Club, [Pasadena City College](https://pcclancers.com/sports/mswimdive/index), [Monterey Park Manta Rays](https://www.gomotionapp.com/team/campmr/page/home), and [Mark Keppel High School](https://www.mkhs.org/).
+swimmer at USC Swim Club, [Pasadena City College](https://pcclancers.com/sports/mswimdive/index), [Monterey Park Manta Rays](https://www.gomotionapp.com/team/campmr/page/home), and [Mark Keppel High School](https://www.mkhs.org/).
 
 Fixing pens - [Instagram page](https://www.instagram.com/kayteepens/)
