@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /pencollection/
-title: Pen Collection
+title: pen collection
 nav: true
 nav_order: 4
 ---
