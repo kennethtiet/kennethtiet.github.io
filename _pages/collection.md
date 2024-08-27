@@ -27,6 +27,7 @@ nav_order: 4
     </div>
 
     <!-- sheaffer -->
+
   <a id="category" href=".#sheaffer">
     <h2 class="category">sheaffer</h2>
   </a>
@@ -45,6 +46,7 @@ nav_order: 4
     </div>
 
     <!-- wahl eversharp -->
+
   <a id="category" href=".#wahleversharp">
     <h2 class="category">wahl eversharp</h2>
   </a>
@@ -63,6 +65,7 @@ nav_order: 4
     </div>
 
     <!-- esterbrook -->
+
   <a id="category" href=".#esterbrook">
     <h2 class="category">esterbrook</h2>
   </a>
@@ -81,6 +84,7 @@ nav_order: 4
     </div>
 
     <!-- waterman -->
+
   <a id="category" href=".#waterman">
     <h2 class="category">waterman</h2>
   </a>
@@ -99,6 +103,7 @@ nav_order: 4
     </div>
 
     <!-- writingsamples -->
+
   <a id="category" href=".#writingsamples">
     <h2 class="category">writing samples</h2>
   </a>
@@ -115,6 +120,5 @@ nav_order: 4
         {% endif %}
         {% endfor %}
     </div>
+
 </div>
-
-
