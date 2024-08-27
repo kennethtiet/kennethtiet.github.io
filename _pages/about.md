@@ -26,7 +26,7 @@ Previously, I was a software intern building industry software tools at [RoviSys
 
 ## currently
 
-I'm reading Meditations by Marcus Aurelius. I'm also learning new skills by following [this](https://roadmap.sh/backend) roadmap.
+reading think like a monk by jay shetty
 
 ## extras
 
@@ -34,4 +34,4 @@ cyclist at [USC Cycling Club](https://usccycling.com/).
 
 swimmer at USC Swim Club, [Pasadena City College](https://pcclancers.com/sports/mswimdive/index), [Monterey Park Manta Rays](https://www.gomotionapp.com/team/campmr/page/home), and [Mark Keppel High School](https://www.mkhs.org/).
 
-Fixing pens - [Instagram page](https://www.instagram.com/kayteepens/)
+fixing [pens](https://www.instagram.com/kayteepens/)
