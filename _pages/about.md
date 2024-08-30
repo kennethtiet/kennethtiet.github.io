@@ -18,19 +18,15 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-
-
 ## currently
 
-*USC Alumnus* '23 with a B.S. in [Computer Science](https://www.cs.usc.edu/)
+_USC Alumnus_ '23 with a B.S. in [Computer Science](https://www.cs.usc.edu/)
 
-*Conducting* [research](https://bpb-us-e2.wpmucdn.com/sites.uci.edu/dist/2/5230/files/2023/09/64_SCR_23_Kenneth_Tiet.pdf) at the [USC Haptics Robotics and Virtual Interaction Lab](https://sites.usc.edu/culbertson/)
+_Conducting_ [research](https://bpb-us-e2.wpmucdn.com/sites.uci.edu/dist/2/5230/files/2023/09/64_SCR_23_Kenneth_Tiet.pdf) at the [USC Haptics Robotics and Virtual Interaction Lab](https://sites.usc.edu/culbertson/)
 
-*Teaching* robotics at the [Institute of Arts, Music, & Science](http://www.iams-usa.org/)
+_Teaching_ robotics at the [Institute of Arts, Music, & Science](http://www.iams-usa.org/)
 
-*Reading* Think Like a Monk by Jay Shetty
-
-
+_Reading_ Think Like a Monk by Jay Shetty
 
 ## previously
 
