@@ -18,7 +18,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-_USC Alumnus_ '23 with a B.S. in [Computer Science](https://www.cs.usc.edu/)
+_USC '23 Alumnus_ with a B.S. in [Computer Science](https://www.cs.usc.edu/)
 
 ## currently
 
