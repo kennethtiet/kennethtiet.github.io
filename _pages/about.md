@@ -28,7 +28,7 @@ Previously, I was a software intern building industry software tools at [RoviSys
 
 reading think like a monk by jay shetty
 
-## extras
+## previously
 
 cyclist at [USC Cycling Club](https://usccycling.com/).
 
