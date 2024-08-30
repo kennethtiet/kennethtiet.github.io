@@ -18,9 +18,9 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-## currently
-
 _USC Alumnus_ '23 with a B.S. in [Computer Science](https://www.cs.usc.edu/)
+
+## currently
 
 _Conducting_ [research](https://bpb-us-e2.wpmucdn.com/sites.uci.edu/dist/2/5230/files/2023/09/64_SCR_23_Kenneth_Tiet.pdf) at the [USC Haptics Robotics and Virtual Interaction Lab](https://sites.usc.edu/culbertson/)
 
