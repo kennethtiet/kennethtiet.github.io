@@ -12,7 +12,7 @@ toc:
 
 # What is NoteIt?
 
-NoteIt, a user-friendly and intuitive note-taking application designed to help you stay organized and productive. I built this project to get myself familiarized working with Django. 
+NoteIt, a user-friendly and intuitive note-taking application designed to help you stay organized and productive. I built this project to get myself familiarized working with Django.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -24,6 +24,7 @@ NoteIt, a user-friendly and intuitive note-taking application designed to help y
 </div>
 
 #### With NoteIt you can:
+
 - _Register and Login_: Create an account and log in securely to access your notes anytime, anywhere.
 - _Create and Delete Notes_: Take notes quickly and easily, and remove unwanted notes with just a few clicks.
 - _Navigate Seemlessly_: Enjoy a clean and intuitive interface that makes it simple to find and manage your notes efficiently.
@@ -41,6 +42,7 @@ NoteIt, a user-friendly and intuitive note-taking application designed to help y
 </div>
 
 #### Tech Stack:
+
 - Frontend: React
 - Backend: Django, Python
 - Database: PostgreSQL
@@ -52,3 +54,5 @@ NoteIt is an ideal tool for organizing and managing your notes. Designed with th
 #### Who is this tool perfect for?
 
 NoteIt is the perfect companion for students, professionals, or anyone who wants to keep their thoughts and ideas in one secure and accessible place. With a focus on simplicity and ease of use, NoteIt makes note-taking a breeze.
+
+# Solution
