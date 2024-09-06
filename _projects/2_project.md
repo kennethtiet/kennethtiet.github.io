@@ -7,7 +7,10 @@ importance: 2
 category: work
 ---
 
-Tic Tac Toe Game built using React framework. This was a fun little side project to get some more experience working with the framework!
+Tic Tac Toe Game built using React framework. This was a fun little side project to get some more experience working with React.
+
+Tech Stack
+React
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
