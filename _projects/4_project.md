@@ -11,7 +11,7 @@ category: work
 
 Eventme is an Android mobile application that allows users to view and register for free or cheap local events in their area. Built with Android SDK, Java, and Google Firebase.
 
-# Users Functions:
+# Features:
 
 - Sign up for an account and login to their account
 - Search for local events with specific categories (Sports, Shopping, Social, etc)
