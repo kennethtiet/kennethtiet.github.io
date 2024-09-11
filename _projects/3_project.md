@@ -20,3 +20,9 @@ Global chat room for everyone. Utilizes React for the front end and Google Fireb
 <div class="caption">
     Sign in easily with google sign-in and say hi!
 </div>
+
+# Features
+
+- Real-time messaging: Messages from users are sent in real-time and displayed in the groupchat
+- Google Sign-in: Sign in with ease using Google's Sign in feature
+- Intuitive User Interface: Users can intuitively add messages and send them using the chat bar
