@@ -21,6 +21,7 @@ A mock banking application developed for a Cybersecurity class, specifically des
 - Served over 40,000+ requests from 50+ users
 
 # Features:
+
 - Secure database with salt-hashed protected passwords
 - Simple account creation and login methods
 - Ability to update balances

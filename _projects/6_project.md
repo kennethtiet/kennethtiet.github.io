@@ -12,6 +12,7 @@ category: work
 LinkBucket is a social link storage and sharing platform. Create buckets and share them with your friends! Built with Java Servlets, Apache Tomcat, HTML, CSS, and Java.
 
 # Features
+
 - User Accounts: Sign up, login, and logout with ease
 - Create buckets to organized and save links
 - Task bar at top to easily identify user commands (My Buckets, Create, Explore)
