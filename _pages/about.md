@@ -30,7 +30,7 @@ _Reading_ Think Like a Monk by Jay Shetty
 
 ## previously
 
-Software intern building industry software tools at [RoviSys](https://www.rovisys.com)
+Intern building software tools at [RoviSys](https://www.rovisys.com)
 
 Cyclist at [USC Cycling Club](https://usccycling.com/)
 
