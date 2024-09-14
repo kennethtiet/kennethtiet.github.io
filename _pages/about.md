@@ -36,4 +36,4 @@ Cyclist at [USC Cycling Club](https://usccycling.com/)
 
 Swimmer at USC Swim Club, [Pasadena City College](https://pcclancers.com/sports/mswimdive/index), [Monterey Park Manta Rays](https://www.gomotionapp.com/team/campmr/page/home), and [Mark Keppel High School](https://www.mkhs.org/)
 
-Fixing [pens](https://www.instagram.com/kayteepens/)
+Fixing [fountain pens](https://www.instagram.com/kayteepens/)
