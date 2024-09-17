@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Restoring an Esterbrook
+title: Esterbook Restoration
 description:
 img: assets/img/redesterbrook/pen.jpg
 importance: 1
