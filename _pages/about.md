@@ -32,6 +32,8 @@ _Reading_ Think Like a Monk by Jay Shetty
 
 ## previously
 
+Math, English, & Science Tutor at ElevateEDU
+
 Intern building software tools at [RoviSys](https://www.rovisys.com)
 
 Cyclist at [USC Cycling Club](https://usccycling.com/)
