@@ -9,9 +9,7 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>Ronald Tutor Hall (RTH) 416</p>
-    <p>3710 McClintock Ave</p>
-    <p>Los Angeles, CA 90089</p>
+    <p>Los Angeles, CA 90007</p>
 
 news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
