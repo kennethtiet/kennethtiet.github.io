@@ -36,10 +36,10 @@ Math, English, & Science Tutor at ElevateEDU
 
 Software Intern at [RoviSys](https://www.rovisys.com)
 
-## Recreational
+## Recreationally
 
-Cyclist at [USC Cycling Club](https://usccycling.com/)
+Ex-cyclist in college
 
-Swimmer at USC Swim Club, [Pasadena City College](https://pcclancers.com/sports/mswimdive/index), [Monterey Park Manta Rays](https://www.gomotionapp.com/team/campmr/page/home), and [Mark Keppel High School](https://www.mkhs.org/)
+Ex-swimmer in college, high school, and club
 
-Restored [Fountain Pens](https://www.instagram.com/kayteepens/)
+Restore vintage [fountain pens](https://kennethtiet.github.io/pencollection/)
