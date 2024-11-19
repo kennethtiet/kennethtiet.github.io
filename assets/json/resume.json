@@ -6,7 +6,7 @@
     "email": "tietkenneth@gmail.com",
     "phone": "(626)400-9263",
     "url": "https://kennethtiet.github.io",
-    "summary": "Junior software engineer at USC Haptics and Robotics Lab. Recent graduate from the University of Southern California with a Bachelors of Science in Computer Science.",
+    "summary": "Specialist at Apple. Previously researcher at the USC Haptics Robotics and Virtual Interaction Lab. Recent graduate from the University of Southern California with a Bachelors of Science in Computer Science.",
     "location": {
       "address": "",
       "postalCode": "",
@@ -16,26 +16,40 @@
     },
     "profiles": [
       {
-        "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
+        "network": "",
+        "username": "",
+        "url": ""
       }
     ]
   },
   "work": [
     {
+      "name": "Specialist at Apple",
+      "position": "Specialist",
+      "url": "https://apple.com",
+      "startDate": "Oct 2024",
+      "endDate": "Present",
+      "Summary": "Enriching lives through personal connections and delivering tailored technical solutions!",
+      "highlights": [
+        "Provided 50+ personalized technical recommendations weekly and guided seamless technical setups",
+        "Conducted in-depth analysis for 10+ customers daily, leveraging technical knowledge to provide tailored solutions",
+        "Led 15+ product demonstrations monthly, showcasing Apple Vision Pro and iOS software features",
+        "Enhanced team skills by collaborating with a team of 20+ colleagues and interacting with 100+ customers monthly"
+      ]
+    },
+    {
       "name": "Haptics Robotics and Virtual Interaction Lab, University of Southern California",
       "position": "Backend Software Engineer",
       "url": "https://sites.usc.edu/culbertson/",
       "startDate": "Jun 2023",
-      "endDate": "Present",
+      "endDate": "Jun 2024",
       "summary": "Building research data and audit management system for auditing and transparency in academic research settings.",
       "highlights": [
-        "Developed back-end services for an auditing and data web application to enhance transparency of academic research data, presented abstract proposal at 2023 Southern California Robotics Symposium",
-        "Reduced web app deployment time by 10% and improved reliability by 15% by optimizing CI/CD pipelines",
-        "Mitigated runtime errors by 30% by leading conversion of codebase from JavaScript to TypeScript",
-        "Improved web app’s reliability by approximately 20% through reduction of technical debt and refactoring efforts",
-        "Provided instruction for 20+ beta testers by crafting easy-to-follow documentation pages using Markdown script"
+        "Developed back-end functions for a web app presented at the 2023 SoCal Robotics Symposium",
+        "Reduced 30% of system errors by reducing technical debt and refactoring key components",
+        "Improved debugging time and maintainability by converting codebase from JavaScript to TypeScript",
+        "Collaborated with a team of 5 engineers using Agile methodologies (Scrum) to drive project delivery",
+        "Drafted and maintained clear documentation for 20+ beta testers using Markdown, enhancing user onboarding"
       ]
     },
     {
@@ -43,7 +57,7 @@
       "position": "Robotics Instructor",
       "url": "http://www.iams-usa.org/",
       "startDate": "Feb 2024",
-      "endDate": "Present",
+      "endDate": "October 2024",
       "summary": "Teaching robotics and programming through project led instruction"
     },
     {
@@ -54,9 +68,8 @@
       "endDate": "Aug 2022",
       "summary": "Built software tools that automated process at RoviSys",
       "highlights": [
-        "Saved company $300,000 by successfully identifying optimization opportunities and leveraging scripting",
-        "Reduced 7,800 hours annually from projects by designing and implementing industry software applications",
-        "Achieved 50% reduction in onboarding time and 35% increase in tool adoption by creating and maintaining detailed documentation for newly developed software tools"
+        "Developed 5 software tools that automated company processes, resulting in annual cost savings of $300,000",
+        "Wrote comprehensive documentation for 5 software tools, simplifying user adoption and improving maintability"
       ]
     }
   ],
