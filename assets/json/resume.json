@@ -43,13 +43,13 @@
       "url": "https://sites.usc.edu/culbertson/",
       "startDate": "Jun 2023",
       "endDate": "Jun 2024",
-      "summary": "Building research data and audit management system for auditing and transparency in academic research settings.",
+      "summary": "Contributed to audit management tool for research settings!",
       "highlights": [
-        "Developed back-end functions for a web app presented at the 2023 SoCal Robotics Symposium",
-        "Reduced 30% of system errors by reducing technical debt and refactoring key components",
-        "Improved debugging time and maintainability by converting codebase from JavaScript to TypeScript",
-        "Collaborated with a team of 5 engineers using Agile methodologies (Scrum) to drive project delivery",
-        "Drafted and maintained clear documentation for 20+ beta testers using Markdown, enhancing user onboarding"
+        "Enabled file uploads by implementing core functions of web application using React, TypeScript, and JavaScript",
+        "Improved onboarding and codebase maintainability by creating clear documentation using Markdown",
+        "Completed prototype with a 6 person cross functional team using Agile Scrum, presented it at SoCal Robotics 2023",
+        "Converted JavaScript codebase to TypeScript by refactoring existing modules and adding type definitions",
+        "Reduced technical debt by removing hard-coding and refactoring code, improving reliability and maintainability"
       ]
     },
     {
@@ -57,8 +57,13 @@
       "position": "Robotics Instructor",
       "url": "http://www.iams-usa.org/",
       "startDate": "Feb 2024",
-      "endDate": "October 2024",
-      "summary": "Teaching robotics and programming through project led instruction"
+      "endDate": "Oct 2024",
+      "summary": "Taught robotics and programming through project led instruction!",
+      "highlights": [
+        "Provided robotics education to 3+ elementary students using Lego Mindstorms and project based approach",
+        "Assisted students in programming 6+ robots by providing elementary programming instruction",
+        "Ensured a safe and clean learning environment with daily cleaning and organizing of classroom"
+      ]
     },
     {
       "name": "RoviSys",
@@ -66,7 +71,7 @@
       "url": "http://www.rovisys.com",
       "startDate": "May 2022",
       "endDate": "Aug 2022",
-      "summary": "Built software tools that automated process at RoviSys",
+      "summary": "Automated processes with software at RoviSys!",
       "highlights": [
         "Developed 5 software tools that automated company processes, resulting in annual cost savings of $300,000",
         "Wrote comprehensive documentation for 5 software tools, simplifying user adoption and improving maintability"
@@ -83,7 +88,7 @@
       "startDate": "2020",
       "endDate": "2023",
       "score": "10",
-      "courses": ["GPA: 3.55", "Course work: Software Engineering, Data Structures, Algorithms, Computer Systems, Operating Systems, Networking"]
+      "courses": ["GPA: 3.6", "Course work: Software Engineering, Data Structures, Algorithms, Computer Systems, Operating Systems, Networking"]
     }
   ],
   "awards": [
