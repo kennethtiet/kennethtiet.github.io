@@ -22,7 +22,7 @@ _USC '23 Alumnus_ with a B.S. in [Computer Science](https://www.cs.usc.edu/)
 
 _Specialist_ at [Apple](https://www.apple.com)
 
-_Pool Manager_ at [City of Monterey Park Aquatics](https://www.montereypark.ca.gov/1427/Aquatics)
+_Assistant Pool Manager_ at [City of Monterey Park Aquatics](https://www.montereypark.ca.gov/1427/Aquatics)
 
 ## Previously
 
