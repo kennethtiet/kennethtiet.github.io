@@ -39,5 +39,3 @@ Software Intern
 I like writing, reflecting, journaling, meditating, and breathing.
 
 Good company, good food, and silence is pretty good too.
-
-Thanks for coming by my page.
