@@ -16,23 +16,23 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-_USC '23 Alumnus_ with a B.S. in [Computer Science](https://www.cs.usc.edu/)
+University of Southern California
+
+_2023 B.S. Computer Science_
 
 ## Currently
 
-_Specialist_ at [Apple](https://www.apple.com)
-
-_Assistant Pool Manager_ at [City of Monterey Park Aquatics](https://www.montereypark.ca.gov/1427/Aquatics)
+Specialist and Lifeguard
 
 ## Previously
 
-[Volunteer Researcher](https://bpb-us-e2.wpmucdn.com/sites.uci.edu/dist/2/5230/files/2023/09/64_SCR_23_Kenneth_Tiet.pdf) at the [USC Haptics Robotics and Virtual Interaction Lab](https://sites.usc.edu/culbertson/)
+[Volunteer Researcher](https://bpb-us-e2.wpmucdn.com/sites.uci.edu/dist/2/5230/files/2023/09/64_SCR_23_Kenneth_Tiet.pdf)
 
-Robotics Instructor at the [Institute of Arts, Music, & Science](http://www.iams-usa.org/)
+Robotics Instructor
 
-Math, English, & Science Tutor at ElevateEDU
+Math, English, & Science Tutor
 
-Software Intern at [RoviSys](https://www.rovisys.com)
+Software Intern
 
 ## What do I do for fun?
 
