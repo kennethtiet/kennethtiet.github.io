@@ -34,10 +34,18 @@ Math, English, & Science Tutor at ElevateEDU
 
 Software Intern at [RoviSys](https://www.rovisys.com)
 
-## Recreationally
+## What do I do for fun?
 
-Ex-cyclist in college
+I like writing, reflecting, and breathing.
 
-Ex-swimmer in college, high school, and club
+I like journaling and meditating.
 
-Restore vintage [fountain pens](https://kennethtiet.github.io/pencollection/)
+I also like sorting my thoughts.
+
+Good company, good food, and silence is pretty good too.
+
+This was in-part generated using ChatGPT.
+
+In my past, I rode bikes and swam a lot. I like and still like restoring [fountain pens](https://kennethtiet.github.io/pencollection/) but I haven't fixed anything in a while.
+
+Thanks for coming by my page.
