@@ -145,32 +145,6 @@
       "icon": ""
     }
   ],
-  "references": [
-    {
-      "name": "Sandeep Kollannur",
-      "icon": "fa-solid fa-laptop",
-      "reference": "PHD Candidate at Haptics Robotics and Virtual Interaction Lab, University of Southern California",
-      "email": "sandeep.kollannur@usc.edu",
-      "phone": "1+ (320) 207-9285",
-      "relationship": "Advisor"
-    },
-    {
-      "name": "Eunji Lee",
-      "icon": "fa-solid fa-cog",
-      "reference": "Director at Institute of Arts, Music, and Science",
-      "email": "eunji@iams-usa.org",
-      "phone": "+1 (562) 304-0201",
-      "relationship": "Supervisor"
-    },
-    {
-      "name": "Scott Imaizumi",
-      "icon": "fa-solid fa-swimmer",
-      "reference": "Program Coordinator at City of Monterey Park",
-      "email": "simaizumi@MontereyPark.ca.gov",
-      "phone": "1+ (626) 307-1476",
-      "relationship": "Supervisor"
-    }
-  ],
   "projects": [
     {
       "name": "NoteIt",
