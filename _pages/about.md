@@ -26,7 +26,7 @@ Specialist and Lifeguard
 
 ## Previously
 
-[Volunteer Researcher](https://bpb-us-e2.wpmucdn.com/sites.uci.edu/dist/2/5230/files/2023/09/64_SCR_23_Kenneth_Tiet.pdf)
+[Researcher](https://bpb-us-e2.wpmucdn.com/sites.uci.edu/dist/2/5230/files/2023/09/64_SCR_23_Kenneth_Tiet.pdf)
 
 Robotics Instructor
 
