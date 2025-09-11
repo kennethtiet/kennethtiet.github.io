@@ -9,6 +9,25 @@ nav_order: 3
 <!-- pages/projects.md -->
 <div class="projects">
   <!-- parker -->
+    <!-- writingsamples -->
+
+  <a id="category" href=".#writingsamples">
+    <h2 class="category">writing samples</h2>
+  </a>
+    {% assign folder_path = "assets/img/collection/writingsamples" %}
+    {% assign files = site.static_files %}
+    <div class="row">
+        {% for file in files %}
+        {% assign lower_path = file.path | downcase %}
+
+        {% if lower_path contains folder_path and file.path contains '.jpg' %}
+        <div class="col-sm mt-3 mt-md-0">
+            {% include figure.liquid loading="eager" path=file.path title=file.name class="img-fluid rounded z-depth-1" %}
+        </div>
+        {% endif %}
+        {% endfor %}
+    </div>
+
   <a id="category" href=".#parker">
     <h2 class="category">parker</h2>
   </a>
@@ -89,25 +108,6 @@ nav_order: 3
     <h2 class="category">waterman</h2>
   </a>
     {% assign folder_path = "assets/img/collection/waterman" %}
-    {% assign files = site.static_files %}
-    <div class="row">
-        {% for file in files %}
-        {% assign lower_path = file.path | downcase %}
-
-        {% if lower_path contains folder_path and file.path contains '.jpg' %}
-        <div class="col-sm mt-3 mt-md-0">
-            {% include figure.liquid loading="eager" path=file.path title=file.name class="img-fluid rounded z-depth-1" %}
-        </div>
-        {% endif %}
-        {% endfor %}
-    </div>
-
-    <!-- writingsamples -->
-
-  <a id="category" href=".#writingsamples">
-    <h2 class="category">writing samples</h2>
-  </a>
-    {% assign folder_path = "assets/img/collection/writingsamples" %}
     {% assign files = site.static_files %}
     <div class="row">
         {% for file in files %}
