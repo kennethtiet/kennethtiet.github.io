@@ -1,12 +1,12 @@
 {
   "basics": {
     "name": "Kenneth Tiet",
-    "label": "Software Engineer",
+    "label": "Specialist",
     "image": "",
     "email": "tietkenneth@gmail.com",
-    "phone": "(626)400-9263",
-    "url": "https://kennethtiet.github.io",
-    "summary": "Specialist at Apple. Previously researcher at the USC Haptics Robotics and Virtual Interaction Lab. Recent graduate from the University of Southern California with a Bachelors of Science in Computer Science.",
+    "phone": "(626) 400-9263",
+    "url": "www.kennethtiet.com",
+    "summary": "Specialist at Apple. Lifeguard Manager at City of Monterey Park. Previously researcher at the USC Haptics Robotics and Virtual Interaction Lab. Graduate from the University of Southern California with a Bachelors of Science in Computer Science.",
     "location": {
       "address": "",
       "postalCode": "",
@@ -24,9 +24,9 @@
   },
   "work": [
     {
-      "name": "Specialist at Apple",
+      "name": "Apple",
       "position": "Specialist",
-      "url": "https://apple.com",
+      "url": "https://www.apple.com",
       "startDate": "Oct 2024",
       "endDate": "Present",
       "Summary": "Enriching lives through personal connections and delivering tailored technical solutions!",
