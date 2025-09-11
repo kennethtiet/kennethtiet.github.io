@@ -45,11 +45,10 @@
       "endDate": "Jun 2024",
       "summary": "Contributed to audit management tool for research settings!",
       "highlights": [
-        "Enabled file uploads by implementing core functions of web application using React, TypeScript, and JavaScript",
-        "Improved onboarding and codebase maintainability by creating clear documentation using Markdown",
-        "Completed prototype with a 6 person cross functional team using Agile Scrum, presented it at SoCal Robotics 2023",
-        "Converted JavaScript codebase to TypeScript by refactoring existing modules and adding type definitions",
-        "Reduced technical debt by removing hard-coding and refactoring code, improving reliability and maintainability"
+        "Implemented backend services for an auditing and data transparency web application, using JavaScript, AWS, and Postman, enabling secure file uploads, storage, and retrieval for academic research data",
+        "Led conversion of codebase from JavaScript to TypeScript, improving type safety & reducing runtime errors",
+        "Authored step-by-step user documentation and developer guides, cutting onboarding time for new users",
+        "Co-authored and presented an abstract proposal at the Southern California Robotics Symposium 2023"
       ]
     },
     {
