@@ -36,4 +36,4 @@ Software Intern
 
 ## What do I do for fun?
 
-Cooking, reading, and working out!
+Making trips to the grocery store and visiting coffee shops!
