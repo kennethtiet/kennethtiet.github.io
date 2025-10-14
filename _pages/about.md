@@ -22,17 +22,17 @@ _2023 B.S. Computer Science_
 
 ## Currently
 
-Specialist and Lifeguard
+Specialist at [Apple](https://www.apple.com)
+
+Lifeguard at [City of Monterey Park](https://www.montereypark.ca.gov/)
 
 ## Previously
 
-[Researcher](https://bpb-us-e2.wpmucdn.com/sites.uci.edu/dist/2/5230/files/2023/09/64_SCR_23_Kenneth_Tiet.pdf)
+[Researcher](https://bpb-us-e2.wpmucdn.com/sites.uci.edu/dist/2/5230/files/2023/09/64_SCR_23_Kenneth_Tiet.pdf) at [HaRVI](https://sites.usc.edu/culbertson/)
 
-Robotics Instructor
+Robotics Instructor at [IAMS](https://www.iams-usa.org/)
 
-Math, English, & Science Tutor
-
-Software Intern
+Software Intern at [RoviSys](https://www.rovisys.com/)
 
 ## What do I do for fun?
 
