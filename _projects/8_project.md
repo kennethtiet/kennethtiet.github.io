@@ -25,7 +25,7 @@ Old original sac was twisted and hardened. I removed the old sac, and replaced i
 
 ## Nib Polishing
 
-I used a little bit of simichrome to clean the nib up. It always a satisfying process watching the  nib come to life.
+I used a little bit of simichrome to clean the nib up. It always a satisfying process watching the nib come to life.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
