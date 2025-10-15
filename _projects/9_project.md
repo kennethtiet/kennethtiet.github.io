@@ -3,7 +3,7 @@ layout: page
 title: Food Menu
 description: Simple food menu for home cooking inspiration!
 img: assets/img/menu/menu.jpg
-importance: 1
+importance: 2
 category: fun
 ---
 
