@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Esterbook Restoration
-description:
+title: Esterbook Fountain Pen Restoration
+description: 1950's Esterbrook model SJ (Demi size) Fountain pen
 img: assets/img/redesterbrook/pen.jpg
 importance: 1
 category: fun
@@ -9,7 +9,7 @@ toc:
   sidebar: left
 ---
 
-Fixed up this 1940's Esterbrook for a client. This is a Red Esterbrook with a 9550(Firm Extra Fine) nib.
+Fixed up this 1950's Esterbrook for a client. This is a Red Esterbrook with a 9550(Firm Extra Fine) nib.
 
 Repair was a simple and fun. Thanks to Kim for letting me work on her pen.
 
