@@ -1,23 +1,28 @@
 ---
 layout: page
-title: Food Menu
-description: Simple food menu for home cooking inspiration!
+title: Home Cooking Food Menu
+description: Simple food menu for cooking inspiration!
 img: assets/img/menu/menu.jpg
 importance: 2
 category: fun
 ---
 
-Created a food menu for home use. My family struggles sometimes on deciding what to cook so my sister and I created a food menu complete with categories, pictures, and huge text to speed up our decision making process.
+## Introduction
 
-Its not the best visually unlike some great templates we found on canva, but it does the job pretty well!
+My sister and I created a home-cooking menu for the home. We sometimes struggle on deciding what to cook so we crafted this solution complete with categories, pictures, and huge text to speed up our decision making process.
 
-This menu sits on our kitchen counter and is frequently used for food inspiration.
+## Planning
 
-We focused on adding foods that were:
+We focused on adding foods that we:
 
-- easy to make
-- interchangeable ingredients
-- different enough so that we didn't add redundant items and made the menu super big
+- wanted to eat
+- and were easy to make
+
+We started by brainstorming a list of all the foods and pruned them until we got our final set of foods.
+
+## Implementation
+
+From then on we gathered pictures of the food as well as the name and organized them and built the pages of the menu on canva. We then printed the pages in color at our local library, placed them in sheet protectors, and collected them in a binder that rests on our kitchen counter. This menu has helped reduced the time it takes to choose what to make for dinner!
 
 Here are some of the pages we have on our menu:
 
@@ -32,3 +37,7 @@ Here are some of the pages we have on our menu:
         {% include figure.liquid loading="eager" path="assets/img/menu/food3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
+
+## Closing Thoughts
+
+All in all, this has been a fun project. It has helped us reduce our decision fatigue and decide on meals faster. Some improvments I would make would be to standardize the size of the images so they are more consistent in the menu, as well as standardizing the text.
