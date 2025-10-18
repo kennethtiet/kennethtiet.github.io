@@ -1,15 +1,28 @@
 ---
 layout: page
-title: Home Cooking Food Menu
-description: Simple food menu for cooking inspiration!
-img: assets/img/menu/menu.jpg
+title: "Dinner, Decided: The End of the 6PM Debate"
+description: Because sometimes the hardest part of cooking is deciding.
+img: assets/img/menu/chefwoman.jpg
 importance: 2
 category: fun
 ---
 
+<div class="row justify-content-center">
+    <div style="display: inline-block; width: 35%;">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/menu/confusedchef.jpg" title="example image" class="img-fluid rounded z-depth-1"
+         %}
+    </div>
+    </div>
+</div>
+
 ## Introduction
 
-My sister and I created a home-cooking menu for the home. We sometimes struggle on deciding what to cook so we crafted this solution complete with categories, pictures, and huge text to speed up our decision making process.
+If you're anything like our family, sometimes we can't decide what to cook for dinner. We would think and present all of the ideas in our head on what to cook. We would look in our fridge, dispute what we wanted to make, and end up taking way too long figuring out what to make all while also being hungry. And so a solution was needed to reduce our time to make a decision, reduce decision fatigue, and get food on the dinner table.
+
+So what was the solution? A menu of course.
+
+My sister and I got to work immediately to build out our menu. The rest of this page details how we did it:
 
 ## Planning
 
