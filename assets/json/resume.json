@@ -27,8 +27,8 @@
       "name": "Apple",
       "position": "Specialist",
       "url": "https://www.apple.com",
-      "startDate": "Oct 2024",
-      "endDate": "Present",
+      "startDate": "2024-10",
+      "endDate": "",
       "summary": "Enriching lives with unmatched, only at Apple experiences.",
       "highlights": [
         "Contributed to sales by delivering tailored solutions, aligning Apple products with customer needs, and fostering customer loyalty for hundreds of customers weekly, resulting in sales revenue of $125,000 in one quarter",
@@ -41,8 +41,8 @@
       "name": "Haptics Robotics and Virtual Interaction Lab, University of Southern California",
       "position": "Backend Software Engineer",
       "url": "https://sites.usc.edu/culbertson/",
-      "startDate": "Jun 2023",
-      "endDate": "Jun 2024",
+      "startDate": "2023-06",
+      "endDate": "2024-06",
       "summary": "Contributed to audit management tool for research settings!",
       "highlights": [
         "Implemented backend services for an auditing and data transparency web application, using JavaScript, AWS, and Postman, enabling secure file uploads, storage, and retrieval for academic research data",
@@ -55,8 +55,8 @@
       "name": "Institute of Arts, Music & Science",
       "position": "Robotics Instructor",
       "url": "http://www.iams-usa.org/",
-      "startDate": "Feb 2024",
-      "endDate": "Oct 2024",
+      "startDate": "2024-02",
+      "endDate": "2024-10",
       "summary": "Taught robotics and programming through project led instruction!",
       "highlights": [
         "Mentored students in LEGO robotics projects that emphasized the intersection of hardware and software to build functional, interactive, and programmable robots",
@@ -67,8 +67,8 @@
       "name": "RoviSys",
       "position": "Software Intern",
       "url": "http://www.rovisys.com",
-      "startDate": "May 2022",
-      "endDate": "Aug 2022",
+      "startDate": "2022-05",
+      "endDate": "2022-08",
       "summary": "Automated processes with software at RoviSys!",
       "highlights": [
         "Developed automation tools in Python and Excel VBA that eliminated manual engineering processes, saving 650 hours of work and approximately $54,600 in costs across projects",
