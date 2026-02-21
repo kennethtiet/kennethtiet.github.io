@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Number Guessing Game
-description: Guess the number!
+description: Simple number guessing game using the Command Line Interface
 img: assets/img/numbers.jpg
 importance: 8
 category: work
@@ -10,16 +10,15 @@ related_publications: false
 
 # Number Guessing Game
 
-Simple guessing game using the Command Line interface. Select the difficulty you want and play!
+Simple guessing game using the Command Line interface. Players can select the difficulty that they want and play! The time it took to guess the number and the number of attempts are displayed when you finish.
 
 # Features:
 
-- Users can play a guessing game
-- Various difficulties offer different chances
-- Users can play multiple rounds if prompted
-- Timer added to see how long users take to win
-- Hint system: If answer is within a value of 5 of the number
-- User's high scores are stored per difficulty. Scores are calculated inversely (Max number of attempts - actual attempts).
+- Various difficulties
+- Multiple rounds
+- Hint system if guess is within 5 numerical values of the answer
+- Records how long the game took
+- Records the number of attempts
 
 # Sample Output
 
